@@ -172,6 +172,7 @@ h1, h2, h3
 		
 		.arrow-themelight:after
 		{
+			border-color: #2580FA rgba(37,128,250,0) rgba(37,128,250,0) rgba(37,128,250,0);
 		}
 
 		.arrow-grey:after
